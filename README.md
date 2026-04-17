@@ -75,19 +75,12 @@ The repository includes the following documentation to help you understand the p
 3. Integrate LLM API to generate preparation roadmaps based on stored data.
 4. Cache LLM responses for efficiency.
 
-### Phase 5 — Admin panel
-1. Develop admin-only views for:
-   - Company CRUD operations
-   - Question/topic database editor
-   - Analytics dashboard (e.g., most-viewed companies, topic completion rates)
-2. Ensure admin functions are gated behind your RBAC check.
-
-### Phase 6 — Progress tracking
+### Phase 5 — Progress tracking
 1. Add a topic-marking UI for each company's preparation screen.
 2. Update the `student_progress` table and recalculate completion percentages in real time.
 3. Display progress bars on the main dashboard.
 
-### Phase 7 — Testing, documentation, and packaging
+### Phase 6 — Testing, documentation, and packaging
 1. Write unit tests for core logic (email parser, LLM cache logic, progress calculation).
 2. Create user and admin manuals.
 3. Provide a `requirements.txt` and setup/install guide.
