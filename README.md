@@ -87,9 +87,10 @@ The repository includes the following documentation to help you understand the p
 4. Package the app for easy installation on Windows or Ubuntu.
 
 ### UML Class Diagram
+<img width="2560" height="2850" alt="cra_uml_class_diagram" src="https://github.com/user-attachments/assets/0b328c6d-c775-43f4-b72f-0727655ceafa" />
 
 ### UML Sequence Diagram
-
+<img width="2560" height="2744" alt="cra_uml_sequence_diagram" src="https://github.com/user-attachments/assets/5d6495cc-921c-4a65-8ee8-c4f326e26557" />
 
 ## Requirements
 To set up and run the Campus Recruit Analyzer, ensure you have the following:
