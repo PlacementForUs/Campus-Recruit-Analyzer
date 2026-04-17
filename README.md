@@ -13,6 +13,11 @@ Campus Recruit Analyzer (CRA) is a project designed to streamline and analyze ca
 ## Overview
 Campus Recruit Analyzer aims to provide a comprehensive solution for managing and analyzing recruitment activities in academic institutions. By leveraging data and structured processes, CRA helps institutions and companies make informed decisions during campus recruitment drives. The project includes detailed documentation, diagrams, and specifications to guide development and usage.
 
+## Screenshots
+<img width="1280" height="832" alt="Screenshot 2026-04-17 at 1 48 04 PM" src="https://github.com/user-attachments/assets/e0066b9f-5cd8-482a-92d8-b14e9842b05a" />
+<img width="1280" height="832" alt="Screenshot 2026-04-17 at 1 46 01 PM" src="https://github.com/user-attachments/assets/0bd184aa-7ba7-477b-a2cf-7dd3ed21fc98" />
+
+
 ## Features
 - Efficient management of recruitment data.
 - Analytical tools to evaluate recruitment trends.
@@ -53,7 +58,8 @@ The repository includes the following documentation to help you understand the p
    - `student_progress` (topics marked done by students)
    - `llm_cache` (cached summaries with timestamps)
 2. ER Diagram:
-![alt text](<ChatGPT Image Apr 9, 2026 at 08_08_22 PM.png>)
+<img width="733" height="472" alt="er_diagram" src="https://github.com/user-attachments/assets/147c63b4-e5f8-46ab-9941-134aae98fadf" />
+
 
 
 ### Phase 3 — Build the authentication and student-facing UI
