@@ -86,6 +86,11 @@ The repository includes the following documentation to help you understand the p
 3. Provide a `requirements.txt` and setup/install guide.
 4. Package the app for easy installation on Windows or Ubuntu.
 
+### UML Class Diagram
+
+### UML Sequence Diagram
+
+
 ## Requirements
 To set up and run the Campus Recruit Analyzer, ensure you have the following:
 - A compatible development environment.
